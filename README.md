@@ -24,7 +24,7 @@ A django + Mysql  based web application to manage the employees of an organisati
 ### Search for Employee details
 ![IMAGE ALT TEXT HERE](https://github.com/nimishbitla11/Office_employee_management_system-/blob/main/media_dump/OMS-Filter.jpeg)
 
-### Filter Result :
+### Search Result :
 ![IMAGE ALT TEXT HERE](https://github.com/nimishbitla11/Office_employee_management_system-/blob/main/media_dump/OMS-filter-result.png)
 
 
